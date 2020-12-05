@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd40b073-9bee-4796-8171-878e243d428e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.expo-shared/assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l8nYnBq3Dyb1KnKPDx4sAzhS59" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd40b073-9bee-4796-8171-878e243d428e" name="Default Changelist" comment="" />
+      <created>1606987637111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606987637111</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1166" height="542" key="AVDManager" timestamp="1606990328695">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="100" y="100" width="1166" height="542" key="AVDManager/0.0.1366.742@0.0.1366.742" timestamp="1606990328695" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1606989970447">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.742@0.0.1366.742" timestamp="1606989970447" />
+  </component>
+</project>

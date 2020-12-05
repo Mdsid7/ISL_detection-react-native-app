@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "SIGNify",
+    "slug": "SIGNify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/signify.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "sdkVersion" : "39.0.0",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.mdsiddiq.SIGNify",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/signify.png",
+        "backgroundColor": "#FFFFFF"
+      }
+      
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
